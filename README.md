@@ -1,2 +1,4 @@
 # hello_python
-hello_world
+def hello_python():
+  print("hello python" * 4)
+  
